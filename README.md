@@ -1,2 +1,2 @@
 # hold-em
-Texas hold'em poker game
+This is a program which plays a game of Texas Hold-em Poker. 
